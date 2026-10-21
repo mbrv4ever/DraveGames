@@ -1,0 +1,7 @@
+pygame>=2.5
+numpy>=1.24
+pillow>=10.0
+neuvoice>=1.0
+onnxruntime>=1.16
+soundfile>=0.12
+huggingface-hub>=0.20
