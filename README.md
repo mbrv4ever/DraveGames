@@ -2,6 +2,12 @@
 
 Sport-minigames in C64/Atari-stijl met medailles. Vier onderdelen, winter en zomer, voor 1 speler (medailles halen) of 2 spelers om-en-om op dezelfde pc.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveGames](https://dravenlock.nl/video/DraveGames.jpg)](https://dravenlock.nl/video/DraveGames.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveGames.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Games · versie 0.1.8*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
